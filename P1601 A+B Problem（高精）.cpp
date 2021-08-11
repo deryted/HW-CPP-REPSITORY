@@ -17,3 +17,6 @@ int main()
 	cout<<c;
 	return 0;
 }
+/*
+模仿人工的计算，算出a+b的高精 
+*/
